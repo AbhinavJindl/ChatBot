@@ -1,11 +1,6 @@
 ----------Group Information-----
 PROJECT:
 FRIENDLY CHATBOT
-MEMBERS:
-	Abhinav Jindal
-	Mattela Nithish
-	Shailendra kumar Gupta
-	Shreyanshu Shekhar
 
 ----------How to Run------------
 ->To run the normal model
